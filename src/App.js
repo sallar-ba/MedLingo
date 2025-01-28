@@ -121,7 +121,6 @@ const App = () => {
 
         <SpeakButton speakText={speakText} translatedText={translatedText} />
       </div>
-      <Footer />
     </div>
   );
 };
